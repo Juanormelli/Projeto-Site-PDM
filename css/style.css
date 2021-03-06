@@ -1,0 +1,42 @@
+header{
+
+    font-weight: bolder;
+    font-size:5rem ;
+    text-align: center;
+    
+}
+.container{
+    display: flex;
+    align-items: center;
+    height:auto;
+    margin-top: 25px;
+}
+fieldset{
+    margin-right: 80px;
+
+}
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 1.15rem;
+   
+}
+
+.img{
+    border-radius:50%;
+    height: 25rem;
+    width: 35rem;
+
+}
+figcaption{
+    text-align: center;
+    color:royalblue;
+    font-weight: bolder;
+}
+
+
+#link{
+    
+    font-size: larger;
+
+}
